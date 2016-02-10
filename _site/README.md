@@ -1,4 +1,0 @@
-### afr
-
-andfloatyrocks.com
-
