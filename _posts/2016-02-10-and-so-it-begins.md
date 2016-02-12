@@ -1,22 +1,19 @@
 ---
 layout: post
 title: and so it begins
-cover: cover.jpg
+cover: spacer.png
 date: 2016-02-10 19:00:00 1100
 categories: afr
 ---
 
-It was the year of fire,  
-the year of destruction,  
-the year we took back what was ours.  
+The year was 2012.  
+Nathan and Eric were young and vestal then,  
+and we were in love with games.  
+It seemed to us that one day there would be a time,  
+that we were going to make something.  
 
-It was the year of rebirth,  
-the year of great sadness,  
-the year of pain,  
-and the year of joy. 
-
-It was a new age.  
-It was the end of history.  
-It was the year everything changed.  
-
-The year is 2016. 
+The year is 2016.  
+We got older, and we had learnt more,  
+we're still in love with games.  
+That time is now, to make something,  
+so here we are.
